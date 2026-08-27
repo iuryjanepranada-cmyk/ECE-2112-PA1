@@ -7,7 +7,7 @@ Made by Iuryjane H. Pranada
 This file contains the information regarding the Program Assignment 1 for the course "Advance Computer Programming" with the title code ECE2112. This assignment covers three python problems based on Module 1 - Base Computing with Python.
 
 # A. Word Rotation Problem
-Create a new function named rotation_word() that accepts a non-empty string. It should also be able to move the first character to the end while keeping the rest in order and preserving capitalization.
+Create a function named rotation_word() that accepts a non-empty string and moves its first character to the end while keeping the rest in order and preserving capitalization.
 
 Code:
 def rotate_word(text):
