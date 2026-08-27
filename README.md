@@ -9,7 +9,7 @@ Create a function named rotation_word() that accepts a non-empty string and move
 
 Code:
 def rotate_word(text):
-return text [1:] + text [0]
+    return text [1:] + text [0]
 
 The first line of the code just defines the new function called rotate_word. Meanwhile, the second line returns the original string rotated by taking a slice from the second character to the end (text[1:]) and concatenating the first character (text[0]) onto the end.
 
