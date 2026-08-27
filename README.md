@@ -34,7 +34,7 @@ make_username("Ada", "Lovelace")
 
 For example, passing "Ada " and "Lovelace " transforms the inputs into "ada" and "lovelace", returning "ada.lovelace".
 
-# Bookend Swap Problem
+# C. Bookend Swap Problem
 Create a new function named swap_bookends() that accepts a list of at least two elements. Unpack the list into first, middle, and last variables, then return a new list with the first and last elements swapped while keeping middle in its original order.
 
 Code:
